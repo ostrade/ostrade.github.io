@@ -2,12 +2,6 @@
 
 Ostrade is an open source foundational set of APIs and services to allow companies engaged in trading to quickly build high value supporting applications.
 
-## The Big Four of the Foundation
-* **Instrument** - Definitions for the structures of trades
-* **Counterparty** - Information on the legal entities for which transactions are executed
-* **Trade** - Executed transactions between counterparties resulting in financial obligations
-* **Market Data** - Prices for instruments including settlement, real-time and derived curves 
-
 ## The Motivation
 
 Trading organizations use mostly proprietary, bespoke ways to implement higher value functions. Most of these companies end up using commercial off-the-shelf software (COTS) in the form of vendor based energy trading risk management systems (ETRM) as a foundation for implementing these higher values functions. 
@@ -19,6 +13,12 @@ The cost of regression testing and operational risks associated with updates cre
 Because of these factors, the motivation of the ostrade project is to allow companies to have access to a generic, non-proprietary set of foundational building blocks for their trading systems and processes. The hypothesis being that the total cost of ownership for the system will be reduced along with other positive attributes such as the ability to source from a larger pool non-vendor-specific technical talent as well as retaining more of the actual trading and risk management business knowledge within this talent pool. The developers will know more about how the system actually works, rather than simply knowing how to interface with a block box.
 
 The ultimate goal is to provide a point of collaboration using the open source model between trading companies to build and maintain these foundational tools which don't create any significant strategic advantage allowing them to break out of the vendor-driven implementations and reduce their total cost of ownership.
+
+## The Big Four of the Foundation
+* **Instrument** - Definitions for the structures of trades
+* **Counterparty** - Information on the legal entities for which transactions are executed
+* **Trade** - Executed transactions between counterparties resulting in financial obligations
+* **Market Data** - Prices for instruments including settlement, real-time and derived curves
 
 ## Building on the Foundation
 
