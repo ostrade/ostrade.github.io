@@ -1,3 +1,7 @@
 site_name: ostrade
 theme:
   name: material
+nav:
+  - Motivation and Hypothesis: 'index.md'
+  - Foundational Services: 'foundations.md'
+  - Technology: 'technology.md'
