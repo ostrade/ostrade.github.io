@@ -6,7 +6,7 @@ Ostrade is an open source foundational set of APIs and services to allow compani
 * **Instrument** - Definitions for the structures of trades
 * **Counterparty** - Information on the legal entities for which transactions are executed
 * **Trade** - Executed transactions between counterparties resulting in financial obligations
-* **Market Data** - Prices for instruments including settlement data, real-time market data and derived curves 
+* **Market Data** - Prices for instruments including settlement, real-time and derived curves 
 
 ## The Motivation
 

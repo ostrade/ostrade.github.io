@@ -5,3 +5,9 @@ nav:
   - Motivation and Hypothesis: 'index.md'
   - Foundational Services: 'foundations.md'
   - Technology: 'technology.md'
+  - Foundations:
+      - 'Proto Core': 'foundations/protocore.md'
+      - 'Instrument': 'foundations/instrument.md'
+      - 'Counterparty': 'foundations/counterparty.md'
+      - 'Trade': 'foundations/trade.md'
+      - 'Market Data': 'foundations/marketdata.md'
